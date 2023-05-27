@@ -1,2 +1,1 @@
 scikit-learn
-pickle==4.0
